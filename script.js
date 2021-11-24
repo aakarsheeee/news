@@ -73,7 +73,7 @@ getData(countryVal);
    
 });
 japanBtn.addEventListener('click',()=>{
-let countryVal='kr';
+let countryVal='jp';
 japanBtn.classList.add("active");
 germanyBtn.classList.remove("active");
 indiaBtn.classList.remove("active");
