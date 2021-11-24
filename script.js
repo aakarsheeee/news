@@ -28,7 +28,7 @@ xhr.onload=function(){
                   <h2 class="accordion-header" id="heading${index}">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse${index}"
                       aria-expanded="true" aria-controls="collapseOne">
-                      <img src="${element["image"]}" class="img-thumbnail mx-4" style="height:100px;" alt="image">
+                      <img src="${element["image"]}" class="img-thumbnail mx-2" style="height:100px;" alt="image">
                       ${element["title"]}
                     </button>
                   </h2>
