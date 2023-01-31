@@ -1,6 +1,6 @@
 
 const newsAccord=document.getElementById("newsAccord");
-const api='d91aa6da3d5e5a51b65b273daa0c3405';
+const api='2cda38f214a48f437458ed9b4d0dc8e0';
 const country= 'in';
 const xhr=new XMLHttpRequest();
 const indiaBtn=document.getElementById('indiaBtn');
